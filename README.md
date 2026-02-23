@@ -1,5 +1,12 @@
 # admin-dashboard
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/admin-dashboard/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/admin-dashboard/actions)
+![License](https://img.shields.io/github/license/yksanjo/admin-dashboard)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/admin-dashboard)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/admin-dashboard)
+
 ## Detailed Description
 
 admin-dashboard is maintained as an industry-grade software project with production-ready engineering practices.  
